@@ -6,6 +6,7 @@
 		"Wolverine l'immortale",
 		"X-Men: Giorni di un futuro passato",
 		"X-Men: Apocalypse",
+		"X-Men: Dark Phoenix",
 		"Logan",
 		"HellBoy",
 		"HellBoy: The golden army",
