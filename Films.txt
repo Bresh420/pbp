@@ -3,10 +3,14 @@
 		"X-Men",
 		"X-Men 2",
 		"X-Men: Conflitto finale",
-		"Wolverine l'immortale",
+		"X-Men: L'inizio",
 		"X-Men: Giorni di un futuro passato",
 		"X-Men: Apocalypse",
-		"Logan",
+		"X-Men: Dark Phoenix",
+		"Wolverine l'immortale",
+		"X-Men le origini Wolverine",
+		"Logan: The Wolverine",
+		"The New Mutants",
 		"HellBoy",
 		"HellBoy: The golden army",
 		"HellBoy (2019)",
@@ -186,6 +190,9 @@
 		"Dunkirk",
 		"The imitation game",
 		"1917",
-		"Birdman"
+		"Birdman",
+		"Pan's Labyrinth",
+		"Ana",
+		
 	]
 }
