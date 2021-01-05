@@ -188,6 +188,13 @@
 		"The imitation game",
 		"1917",
 		"Birdman",
-		"Ana"
+		"Ana",
+		"Necropolis",
+		"13 Hours: The Secret Soldiers of Benghazi",
+		"Hidden Life",
+		"The Lighthouse",
+		"Synecdoche, New York",
+		"Boyz'n the hood",
+		"La Haine"
 	]
 }
