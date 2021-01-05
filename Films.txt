@@ -195,6 +195,11 @@
 		"The Lighthouse",
 		"Synecdoche, New York",
 		"Boyz'n the hood",
-		"La Haine"
+		"La Haine",
+		"Two is a family",
+		"Tenet",
+		"Sicario",
+		"Django Unchained",
+		
 	]
 }
