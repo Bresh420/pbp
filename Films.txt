@@ -200,6 +200,6 @@
 		"Tenet",
 		"Sicario",
 		"Django Unchained",
-		
+		"Soul"
 	]
 }
