@@ -3,10 +3,12 @@
 		"X-Men",
 		"X-Men 2",
 		"X-Men: Conflitto finale",
-		"Wolverine l'immortale",
+		"X-Men: L'inizio",
 		"X-Men: Giorni di un futuro passato",
 		"X-Men: Apocalypse",
 		"X-Men: Dark Phoenix",
+		"X-Men le origini - Wolverine",
+		"Wolverine l'immortale",
 		"Logan",
 		"HellBoy",
 		"HellBoy: The golden army",
@@ -200,6 +202,8 @@
 		"Tenet",
 		"Sicario",
 		"Django Unchained",
-		"Soul"
+		"Soul",
+		"Come and see 1989",
+		
 	]
 }
