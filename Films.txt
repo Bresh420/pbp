@@ -143,7 +143,7 @@
 		"Léon",
 		"La vita è bella",
 		"Edward mani di forbice",
-		"Bastardi senza gloria",
+		"Inglourious Basterds",
 		"Fight Club",
 		"John Carter",
 		"Instant Family",
