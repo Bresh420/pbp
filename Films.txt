@@ -214,7 +214,7 @@
 		"I Am Legend",
 		"The Texas Chain Saw Massacre",
 		"Get Out",
-		"Trainspotting",
+		"Trainspotting (1996)",
 		
 	]
 }
