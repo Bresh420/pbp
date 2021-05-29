@@ -217,6 +217,7 @@
 		"Trainspotting (1996)",
 		"I, Robot (2004)",
 		"Godzilla vs. Kong (2021)",
+		"(500) Days of Summer (2009)",
 		
 	]
 }
