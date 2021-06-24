@@ -220,6 +220,8 @@
 		"(500) Days of Summer (2009)",
 		"Green Lantern (2011)",
 		"The Conjuring: The Devil Made Me Do It (2021)",
+		"Luca (2021)",
+		
 		
 		
 		
