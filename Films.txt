@@ -221,8 +221,9 @@
 		"Green Lantern (2011)",
 		"The Conjuring: The Devil Made Me Do It (2021)",
 		"Luca (2021)",
-		
-		
+		"Cars (2006)",
+		"Cars 2 (2011)",
+		"Cars 3 (2017)",
 		
 		
 	]
