@@ -225,6 +225,9 @@
 		"Cars 2-(2011)",
 		"Cars 3-(2017)",
 		"They live-(1988)",
+		"A Quiet Place-(2018)",
+		"A Quiet Place Part II-(2021)",
+		
 		
 	]
 }
