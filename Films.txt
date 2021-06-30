@@ -228,6 +228,7 @@
 		"A Quiet Place-(2018)",
 		"A Quiet Place Part II-(2021)",
 		"Cherry-(2021)",
+		"Cold Blood-(2019)",
 		
 		
 	]
