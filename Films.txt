@@ -229,6 +229,9 @@
 		"A Quiet Place Part II-(2021)",
 		"Cherry-(2021)",
 		"Cold Blood-(2019)",
+		"Tom Clancy's Without Remorse-(2021)",
+		"Nobody-(2021)",
+		
 		
 		
 	]
