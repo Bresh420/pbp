@@ -120,6 +120,11 @@
 		"Una notte al museo",
 		"Una notte al museo 2",
 		"Una notte al museo 3",
+		"Twilight-(2008)",
+		"The Twilight Saga: New Moon-(2009)",
+		"The Twilight Saga: Eclipse-(2010)",
+		"The Twilight Saga: Breaking Dawn - Parte 1-(2011)",
+		"The Twilight Saga: Breaking Dawn - Parte 2-(2012)",
 		"America History X",
 		"Quei Bravi ragazzi",
 		"Donnie Darko",
@@ -232,6 +237,9 @@
 		"Tom Clancy's Without Remorse-(2021)",
 		"Nobody-(2021)",
 		"Corpse Bride-(2005)",
+		"Bohemian Rhapsody-(2018)",
+		
+		
 		
 		
 		
