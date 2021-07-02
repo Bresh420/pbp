@@ -125,6 +125,7 @@
 		"The Twilight Saga: Eclipse-(2010)",
 		"The Twilight Saga: Breaking Dawn - Parte 1-(2011)",
 		"The Twilight Saga: Breaking Dawn - Parte 2-(2012)",
+		"Eragon-(2006)",
 		"America History X",
 		"Quei Bravi ragazzi",
 		"Donnie Darko",
