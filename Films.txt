@@ -269,5 +269,7 @@
 		"The Purge: Anarchy-(2014)",
 		"The Purge:Election Year-(2016)",
 		"The First Purge-(2018)",
+		"Black Widow-(2021)",
+		
 	]
 }
