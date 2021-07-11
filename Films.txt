@@ -169,6 +169,24 @@
 		"The Conjuring 2: The Enfield Case-(2016)",
 		"The Conjuring: The Devil Made Me Do It-(2021)",
 		
+		"Final Destination-(2000)",
+		"Final Destination 2-(2003)",
+		"Final Destination 3-(2006)",
+		"Final Destination 4-(2009)",
+		"Final Destination 5-(2011)",
+		
+		"The Purge-(2013)",
+		"The Purge: Anarchy-(2014)",
+		"The Purge:Election Year-(2016)",
+		"The First Purge-(2018)",
+		
+		"Jumanji-(1995)",
+		"Jumanji: Welcome to the Jungle-(2017)",
+		"Jumanji: The Next Level-(2019)",
+		
+		"A Quiet Place-(2018)",
+		"A Quiet Place Part II-(2021)",
+		
 		"Eragon-(2006)",
 		"America History X",
 		"Quei Bravi ragazzi",
@@ -255,7 +273,6 @@
 		"Shaft-(2019)",
 		"Pokémon Detective Pikachu-(2019)",
 		"Tenet",
-		
 		"12 Strong-(2018)",
 		"Django Unchained",
 		"Soul",
@@ -275,12 +292,8 @@
 		"Godzilla vs. Kong-(2021)",
 		"(500) Days of Summer-(2009)",
 		"Green Lantern-(2011)",
-		
 		"Luca-(2021)",
-		
 		"They live-(1988)",
-		"A Quiet Place-(2018)",
-		"A Quiet Place Part II-(2021)",
 		"Cherry-(2021)",
 		"Cold Blood-(2019)",
 		"Tom Clancy's Without Remorse-(2021)",
@@ -295,24 +308,12 @@
 		"Bloodshot-(2020)",
 		"Sonic the Hedgehog-(2020)",
 		"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)-(2020)",
-		"Jumanji-(1995)",
-		"Jumanji: Welcome to the Jungle-(2017)",
-		"Jumanji: The Next Level-(2019)",
 		"Charlie's Angels-(2019)",
 		"Midway-(2019)",
 		"Infinite-(2021)",
 		"Extraction-(2020)"
 		"Mad Max-(2015)",
 		"The Gentlemen-(2020)",
-		"Final Destination-(2000)",
-		"Final Destination 2-(2003)",
-		"Final Destination 3-(2006)",
-		"Final Destination 4-(2009)",
-		"Final Destination 5-(2011)",
-		"The Purge-(2013)",
-		"The Purge: Anarchy-(2014)",
-		"The Purge:Election Year-(2016)",
-		"The First Purge-(2018)",
 		"Black Widow-(2021)",
 		
 	]
