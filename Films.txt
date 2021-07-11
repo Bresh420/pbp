@@ -1,33 +1,40 @@
 {
 	"films":[
-		"X-Men",
-		"X-Men 2",
-		"X-Men: Conflitto finale",
-		"X-Men: L'inizio",
-		"X-Men: Giorni di un futuro passato",
-		"X-Men: Apocalypse",
-		"X-Men: Dark Phoenix",
-		"X-Men le origini - Wolverine",
-		"Wolverine l'immortale",
-		"Logan",
+		"X-Men-(2000)",
+		"X-Men 2-(2003)",
+		"X-Men: The Last Stand-(2006)",
+		"X-Men Origins: Wolverine-(2009)",
+		"X: First Class-(2011)",
+		"The Wolverine-(2013)",
+		"X-Men: Days of Future Past-(2014)",
+		"X-Men: Apocalypse-(2016)",
+		"Logan-(2017)",
+		"X-Men: Dark Phoenix-(2019)",
+		"The New Mutants-(2020)",
+		
 		"HellBoy",
 		"HellBoy: The golden army",
 		"HellBoy (2019)",
+		
 		"Maze Runner: Il Labirinto",
 		"Maze Runner: La Fuga",
 		"Maze Runner: La Rivelazione",
+		
 		"It",
 		"It Chapter II",
+		
 		"Spider-man",
 		"Spider-man 2",
 		"Spider-man 3",
 		"Spider-man: Un nuovo universo",
 		"Spider-man: Homecoming",
 		"Spider-man: Far from home",
+		
 		"Toy Story",
 		"Toy Story 2",
 		"Toy Story 3",
 		"Toy Story 4",
+		
 		"Fast & Furious",
 		"2 Fast 2 Furios",
 		"The fast and the Furious: Tokyo Drift",
@@ -37,40 +44,54 @@
 		"Fast & Furious 7",
 		"Fast & Furious 8",
 		"Fast & Furious - Hobbs & Shaw",
+		
 		"Annabelle",
 		"Annabelle 2",
+		
 		"Men in Black",
 		"Men in Black 2",
 		"Men in Black 3",
 		"Men in Black: International",
+		
 		"Hunger Games",
 		"Hunger Games: La ragazza di fuoco",
 		"Hunger Games: Il canto della rivolta",
 		"Hunger Games: Il canto della rivolta 2",
+		
 		"Iron Man",
 		"Iron Man 2",
 		"Iron Man 3",
+		
 		"Hulk",
 		"L'incredibile Hulk",
+		
 		"Blade",
 		"Blade II",
 		"Blade: Trinity",
+		
 		"Thor",
 		"Thor: The dark world",
 		"Thor: Ragnarok",
+		
 		"Captain America: il primo vendicatore",
 		"Captain America: The Winter Soldier",
 		"Captain America: Civil War",
+		
 		"Ant-Man",
 		"Ant-Man and the Wasp",
+		
 		"Doctor Strange",
+		
 		"Guardiani della Galassia",
 		"Guardiani della Galassia: Vol.2",
+		
 		"Black Panther",
+		
 		"Avengers",
 		"Avengers: Age of Ultron",
 		"Avengers: Infinity War",
 		"Avengers: Endgame",
+		
 		"Harry Potter: la pietra filosofale",
 		"Harry Potter: la camera dei segreti",
 		"Harry Potter: il prigionieri di Azkaban",
@@ -79,11 +100,14 @@
 		"Harry Potter: il principe mezzosangue",
 		"Harry Potter: i doni della morte: 1",
 		"Harry Potter: i doni della morte: 2",
+		
 		"Animali fantastici e dove trovarli",
 		"Animali fantastici e dove trovarli: crimini di grindelwald",
+		
 		"Ritorno al futuro",
 		"Ritorno al futuro: 2",
 		"Ritorno al futuro: 3",
+		
 		"Nightmare: Dal profondo della notte",
 		"Nightmare: 2 - La rivincita",
 		"Nightmare: 3 - I guerrieri del sogno",
@@ -91,6 +115,7 @@
 		"Nightmare: 5 - Il mito",
 		"Nightmare: 6 - La fine",
 		"Nightmare: Nuovo incubo",
+		
 		"Batman",
 		"Batman - Il ritorno",
 		"Batman Forever",
@@ -98,6 +123,7 @@
 		"Batman Begins",
 		"Il cavaliere oscuro",
 		"Il cavaliere oscuro: il ritorno",
+		
 		"Saw - L'enigmista",
 		"Saw II - La soluzione dell'enigma",
 		"Saw III - L'enigma senza fine",
@@ -106,25 +132,43 @@
 		"Saw VI",
 		"Saw 3D - Il capitolo finale",
 		"Saw: Legacy",
+		
 		"I Pirati dei Caraibi: La maledizione della prima luna",
 		"I Pirati dei Caraibi: La maledizione del forziere fantasma",
 		"I Pirati dei Caraibi: Ai confini del mondo",
 		"I Pirati dei Caraibi: Oltre i confini del mare",
 		"I Pirati dei Caraibi: La vendetta di salazar",
+		
 		"Scemo & più scemo",
 		"Scemo & più scemo 2",
+		
 		"The Mask - Da zero a mito",
 		"The Mask 2",
+		
 		"Deadpool",
 		"Deadpool 2",
+		
 		"Una notte al museo",
 		"Una notte al museo 2",
 		"Una notte al museo 3",
+		
 		"Twilight-(2008)",
 		"The Twilight Saga: New Moon-(2009)",
 		"The Twilight Saga: Eclipse-(2010)",
 		"The Twilight Saga: Breaking Dawn - Parte 1-(2011)",
 		"The Twilight Saga: Breaking Dawn - Parte 2-(2012)",
+		
+		"Cars-(2006)",
+		"Cars 2-(2011)",
+		"Cars 3-(2017)",
+		
+		"Sicario-(2015)",
+		"Sicario: Day of the Soldado-(2018)",
+		
+		"The Conjuring-(2013)",
+		"The Conjuring 2: The Enfield Case-(2016)",
+		"The Conjuring: The Devil Made Me Do It-(2021)",
+		
 		"Eragon-(2006)",
 		"America History X",
 		"Quei Bravi ragazzi",
@@ -138,7 +182,9 @@
 		"Et - L'extraterrestre",
 		"Inception",
 		"Schindler's list",
+		"Wolfman-(2010)",
 		"Il miglio verde",
+		"Fear and Loathing in Las Vegas-(1998)",
 		"V per Vendetta",
 		"Salvare il soldato Ryan",
 		"The wolf of wall street",
@@ -166,6 +212,7 @@
 		"Bad Boys",
 		"The karate kid - La leggenda continua",
 		"Bright",
+		"Jack the Giant Slayer-(2013)",
 		"Shark Tale",
 		"Wild wide west",
 		"The Truman Show",
@@ -208,8 +255,7 @@
 		"Shaft-(2019)",
 		"Pokémon Detective Pikachu-(2019)",
 		"Tenet",
-		"Sicario-(2015)",
-		"Sicario: Day of the Soldado-(2018)",
+		
 		"12 Strong-(2018)",
 		"Django Unchained",
 		"Soul",
@@ -229,11 +275,9 @@
 		"Godzilla vs. Kong-(2021)",
 		"(500) Days of Summer-(2009)",
 		"Green Lantern-(2011)",
-		"The Conjuring: The Devil Made Me Do It-(2021)",
+		
 		"Luca-(2021)",
-		"Cars-(2006)",
-		"Cars 2-(2011)",
-		"Cars 3-(2017)",
+		
 		"They live-(1988)",
 		"A Quiet Place-(2018)",
 		"A Quiet Place Part II-(2021)",
