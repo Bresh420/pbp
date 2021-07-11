@@ -311,7 +311,7 @@
 		"Charlie's Angels-(2019)",
 		"Midway-(2019)",
 		"Infinite-(2021)",
-		"Extraction-(2020)"
+		"Extraction-(2020)",
 		"Mad Max-(2015)",
 		"The Gentlemen-(2020)",
 		"Black Widow-(2021)",
