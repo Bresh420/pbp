@@ -311,6 +311,7 @@
 		"Charlie's Angels-(2019)",
 		"Midway-(2019)",
 		"Infinite-(2021)",
+		"Legend-(2015)",
 		"Extraction-(2020)",
 		"Pieces of a Woman-(2020)",
 		"Mad Max-(2015)",
